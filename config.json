@@ -1,0 +1,5 @@
+{
+  "serverFiles": "./server-files",
+  "userFiles": "./user-files",
+  "port": 5006
+}
