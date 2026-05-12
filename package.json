@@ -1,0 +1,14 @@
+{
+  "name": "actual-budget-server",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "actual-server"
+  },
+  "dependencies": {
+    "@actual-app/sync-server": "latest"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
